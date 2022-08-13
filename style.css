@@ -1,0 +1,10 @@
+#footer_1{
+font-size: 15px;
+color: blue;
+background-color: aquamarine;
+text-align: center;
+}
+.img-responsive{
+height: 500px;
+width: 250px;
+}
